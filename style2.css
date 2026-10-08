@@ -1,0 +1,204 @@
+html {
+    scroll-behavior: smooth;
+}
+body {
+    margin: 0;
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: #f4f6f9;
+    padding:0 ;
+    color: #1e3a5f;
+    text-align: center;
+}
+
+h1 {
+    background-color: #19487c;
+    color: #ffffff;
+    text-align: center;
+    padding: 30px 20px;
+    margin: 0;
+    padding-top: 30px;
+    font-size: 32px;
+    
+}
+.job-title{
+    color: #cbd5e1;
+    background-color: #19487c; 
+     margin: 0;
+     padding-top: 8px;
+     padding-bottom: 20px;
+     font-size: 16px;
+}
+.about {
+background-color: #ffffff;
+max-width: 800px;
+margin: 30px auto;
+padding: 25px;
+border-radius: 8px;
+box-shadow: 0 2px 8px rgb(0, 0, 0, 0.05);
+text-align: left;
+margin-top: 50px;
+}
+/*الكارت الرءيسي الخاص لقسم about*/
+.about h2{
+    color: #1e3a5f;
+font-size: 22px;
+margin-top: 0;
+margin-bottom: 20x;
+}
+.about img{
+border-radius: 50%;
+object-fit: cover;
+margin-right: 20px;
+float: left;
+}
+.btn-github {
+color: #ffffff;
+background-color: #0b63b6;
+padding: 8px 16px;
+border-radius: 6px;
+text-decoration: none;
+display: inline-block;
+font-size: 13px;
+}
+.about p{
+    color: #333333;
+font-size: 16px;
+line-height: 1.6;
+margin-bottom: 15px;
+}
+.about p span{
+color: #0b63b6;
+font-weight: bold;
+}
+nav a{
+display: inline-block;
+margin-top: 15px;
+margin-bottom: 15px;
+margin-right: 5px;
+margin-left: 5px;
+text-decoration: none;
+}
+
+
+
+.skills {
+background-color: #ffffff;
+max-width: 800px;
+margin: 30px auto;
+padding: 25px;
+border-radius: 8px;
+box-shadow: 0 2px 8px rgb(0, 0, 0, 0.05);
+text-align: left;
+
+}
+.skills h2{
+color: #1e3a5f;
+font-size: 22px;
+margin-top: 0;
+margin-bottom: 10x;
+}
+.skills .first-of-type{
+    color: #6c757d;
+font-size: 14px;
+margin-bottom: 15;
+background-color: transparent;
+border:none ;
+display: block;
+}
+.skills p{
+display: inline-block;
+background-color: #f8fafc;
+border: 1px solid   #e2e8f0;
+border-radius: 6px;
+padding: 8px 14px;
+margin-right: 10px;
+margin-bottom: 10px;
+color:#0b63b6;
+font-weight: bold;
+font-size: 14px;
+}
+.skills .extra-skills{
+display: block;
+margin-top: 15px;
+color:#4b5563 ;
+font-size: 14px;
+font-style: italic;
+background-color: transparent;
+border: none;
+}
+.experience  {
+background-color: #ffffff;
+max-width: 800px;
+margin: 30px auto;
+padding: 25px;
+border-radius: 8px;
+box-shadow: 0 2px 8px rgb(0, 0, 0, 0.05);
+text-align: left;
+}
+.experience h2 {
+color: #1e3a5f;
+font-size: 22px;
+margin-top: 0;
+margin-bottom: 15x;
+}
+.experience p{
+color: #333333;
+font-size: 16px;
+line-height: 1.6;
+margin-bottom: 15px;
+}
+.contact {
+background-color: #18487e;
+max-width: 800px;
+margin: 30px auto;
+padding: 25px;
+border-radius: 8px;
+box-shadow: 0 2px 8px rgb(0, 0, 0, 0.05);
+text-align: left;
+}
+.contact h2{
+color: #ffffff;
+font-size: 22px;
+margin-top: 0;
+margin-bottom: 20x;
+text-align: center;
+}
+.contact p{
+color: #4b5563;
+font-size: 15px;
+line-height: 1.6;
+margin-bottom: 8px;
+}
+.contact-links {
+color: #1e3a5f;
+font-size: 22px;
+margin-top: 0;
+margin-bottom: 20x;
+}
+.contact-card {
+display: inline-block;
+background-color: #f8fafc;
+border: 1px solid   #e2e8f0;
+border-radius: 8px;
+padding: 15px 20px;
+margin: 8px;
+width: 90px;
+text-align: center;
+text-decoration: none;
+}
+.contact-card img{
+width: 24px;
+height: 24px;
+display: block;
+margin: 0 auto 8px auto;
+}
+.contact-card span  {
+color: #0b63b6;
+font-size: 13px;
+font-weight: bold;
+}
+
+
+
+
+
